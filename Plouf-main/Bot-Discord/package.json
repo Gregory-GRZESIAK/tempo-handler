@@ -1,0 +1,49 @@
+{
+  
+  "name": "shamalou-v2",
+  
+  "version": "1.0.0",
+  
+  "description": "",
+  
+  "main": "src/index.js",
+  
+  "scripts": {},
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "type": "module",
+  
+  "dependencies": {
+  
+    
+  "discord.js": "^14.16.3",
+  
+    
+  "dotenv": "^16.4.7",
+  
+    
+  "recursive-readdir": "^2.2.3",
+  
+    
+  "translatte": "^3.0.1",
+  
+    
+  "typescript": "^5.7.2"
+  
+  },
+  
+  "devDependencies": {
+  
+    
+  "@types/node": "^22.10.5",
+  
+    
+  "@types/recursive-readdir": "^2.2.4"
+  
+  }
+}
